@@ -1,9 +1,13 @@
 <?php
 /**
- * Plugin Name: Update Notifier WordPress
+ * Plugin Name: Up2date Notifier
  * Description: Sends an email to the site administrator and a predefined address whenever WordPress core, plugins, or themes are updated.
- * Author: e-studio.dk | Michael Bay Sørensen
  * Version: 1.0.0
+ * Author: e-studio.dk | Michael Bay Sørensen
+ * Author URI: https://e-studio.dk
+ * License: GPLv3 or later
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ * Text Domain: up2date-notifier
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
