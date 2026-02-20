@@ -33,7 +33,7 @@ The plugin sends emails to:
 - The WordPress administrator email (set in Settings → General)
 - A predefined support email address (currently hardcoded in the plugin)
 
-To change the support email address, edit `up2date-notifier.php` and modify line 123:
+To change the support email address, edit `up2date-notifier.php` and modify line 127:
 
 ```php
 $support_email = 'your-email@example.com';
