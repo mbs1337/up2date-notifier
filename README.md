@@ -1,8 +1,8 @@
 # Update Notifier for WordPress
 
+[![Download from WordPress.org](https://img.shields.io/badge/Download-WordPress.org-21759b?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/plugins/up2date-notifier/)
 [![Built By](https://img.shields.io/badge/BUILT%20BY-e--studio.dk-555555?style=flat-square)](https://e-studio.dk)
 [![Website](https://img.shields.io/badge/e--studio.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)](https://e-studio.dk)
-[![WordPress](https://img.shields.io/badge/WordPress-PHP-blue?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![Built In PHP](https://img.shields.io/badge/BUILT%20IN-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.html)
 
@@ -20,6 +20,9 @@ The notification email includes details about what was updated and is sent to bo
 
 ## Installation
 
+**Recommended (future releases):** Download from [WordPress.org](https://wordpress.org/plugins/up2date-notifier/)
+
+**Version 1.0 (this repo):**
 1. Download or clone this repository
 2. Upload the `up2date-notifier` folder to `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
@@ -47,5 +50,5 @@ GPL-3.0 [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/g
 
 ## Author
 
-e-studio.dk | Michael Bay Sørensen
+[e-studio.dk](https://e-studio.dk) | Michael Bay Sørensen
 
